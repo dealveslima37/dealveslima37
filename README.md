@@ -24,7 +24,6 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
 
-<div>
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=84988147)
-</div>
+
 ##
