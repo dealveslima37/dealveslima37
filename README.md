@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dealveslima37
-- 👀 I’m interested in development back end
-- 🌱 I’m currently learning java, spring boot, JPA/Hibernate, Mysql e git
-- 💞️ I’m looking to collaborate in projects back end
-- 📫 How to reach me: alexandredealveslima@gmail.com
+- 👋 Oi, Eu sou o Alexandre
+- 👀 Eu estou interessado em desenvolvimento back end
+- 🌱 Atualmente estou estudando java, javascript, c#, spring boot, JPA/Hibernate, AspNet, Mysql e git 
+- 💞️ Estou interessado em projetos back end
+- 📫 pode me achar em: alexandredealveslima@gmail.com
 
 <!---
 dealveslima37/dealveslima37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
